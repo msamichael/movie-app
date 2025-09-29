@@ -12,10 +12,12 @@
   },
   "dependencies": {
     "appwrite": "^17.0.2",
-    "flowbite-react": "^0.11.7",
+    "flowbite-react": "^0.12.9",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-use": "^17.6.0"
+    "react-router-dom": "^7.9.3",
+    "react-use": "^17.6.0",
+    "tailwindcss": "^4.1.13"
   },
   "devDependencies": {
     "@eslint/js": "^9.22.0",
@@ -27,7 +29,6 @@
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
-    "tailwindcss": "^4.1.13",
     "vite": "^6.3.1"
   }
 }
