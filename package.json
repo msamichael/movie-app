@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "appwrite": "^17.0.2",
+    "firebase": "^12.3.0",
     "flowbite-react": "^0.12.9",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
