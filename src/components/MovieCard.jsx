@@ -14,7 +14,7 @@ const MovieCard = ({
   return (
     <Link to={`/movie/${id}`}>
       
-    <div className="movie-card">
+    <div className="movie-card cursor-pointer">
       <img
         src={
           poster_path
